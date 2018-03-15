@@ -1,0 +1,6 @@
+[package]
+name = "rsoup"
+version = "0.1.0"
+authors = ["向越可 <xiangyk@dcxs100.com>"]
+
+[dependencies]
